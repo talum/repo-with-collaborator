@@ -6,4 +6,4 @@ taco release
 
 footnote[^1]
 
-[^1] footnote
+[^1]: footnote
