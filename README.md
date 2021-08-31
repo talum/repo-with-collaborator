@@ -1,9 +1,13 @@
-# testing
+# repo with collaborator
 
-taco release
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
-🥞 pancake release
+[^1]: This is the first footnote.
 
-footnote[^1]
+[^bignote]: Here's one with multiple paragraphs and code.
 
-[^1]: footnote
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
