@@ -6,6 +6,8 @@ Another note[^3]
 
 A fourth reference[^4]
 
+ch-ch-ch-changes
+
 [^1]: This is the first footnote.
 
 [^2]: Here's one with multiple paragraphs and code.
