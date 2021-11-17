@@ -1,5 +1,7 @@
 # repo with collaborator
 
+testing codeowners
+
 Here's a simple footnote,[^1] and here's a longer one.[^2]
 
 Another note[^3]
