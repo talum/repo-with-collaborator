@@ -19,3 +19,5 @@ A fourth reference[^4]
  [^3]: hi
  
  [^4]: hello again
+
+L:Kj;lkzjf omg linking issue from new feature 
