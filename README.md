@@ -1,8 +1,9 @@
 # repo with collaborator
-
-Here's a simple footnote,[^1] and here's a longer one.[^2]
+whitespace change below
+  Here's a simple footnote,[^1] and here's a longer one.[^2]
 
 Another note[^3]
+
 
 A fourth reference[^4]
 
