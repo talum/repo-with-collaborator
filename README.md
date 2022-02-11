@@ -6,7 +6,7 @@ Another note[^3]
 
 A fourth reference[^4]
 
-ch-ch-ch-changes
+suggested 
 
 [^1]: This is the first footnote.
 
