@@ -6,7 +6,7 @@ Another note[^3]
 
 A fourth reference[^4]
 
-boop
+hello
 
 [^1]: This is the first footnote.
 
