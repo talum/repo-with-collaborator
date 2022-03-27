@@ -23,6 +23,8 @@ Another note[^3]
 
 A fourth reference[^4]
 
+hello hi sup
+
 [^1]: This is the first footnote.
 
 [^2]: Here's one with multiple paragraphs and code.
